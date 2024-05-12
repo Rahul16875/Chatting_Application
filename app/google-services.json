@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706082796763",
+    "project_id": "livechat-4ee38",
+    "storage_bucket": "livechat-4ee38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706082796763:android:17d8a435f6b06e920e88fe",
+        "android_client_info": {
+          "package_name": "com.example.chattingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO_1i7VWK9zOXeyxSJye0dapk46JNJBcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
