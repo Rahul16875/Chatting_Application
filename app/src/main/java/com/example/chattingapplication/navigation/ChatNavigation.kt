@@ -8,7 +8,7 @@ import androidx.navigation.compose.rememberNavController
 import com.example.chattingapplication.screens.ChatListScreen
 import com.example.chattingapplication.screens.LoginScreen
 import com.example.chattingapplication.screens.ProfileScreen
-import com.example.chatapplication.screens.SignUpScreen
+import com.example.chattingapplication.screens.SignUpScreen
 import com.example.chatapplication.screens.SingleChatScreen
 import com.example.chatapplication.screens.SingleStatusScreen
 import com.example.chattingapplication.ChatViewModel
